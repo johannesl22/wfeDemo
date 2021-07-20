@@ -31,28 +31,7 @@
        "schema": "DynamicCart"
     }
   ],
-  "productsFibra": [
-    {
-      "id": 1,
-      "name": "fibra 100",
-      "schema": "DynamicCart"
-    },
-    {
-      "id": 2,
-      "name": "fibra 200",
-      "schema": "DynamicCart"
-    },
-    {
-      "id": 3,
-      "name": "fibra 300",
-      "schema": "DynamicCart"
-    },
-    {
-       "id": 4,
-       "name": "fibra 400",
-       "schema": "DynamicCart"
-    }
-  ],
+
 "schemas": [
     {
       
