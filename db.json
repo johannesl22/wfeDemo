@@ -1,5 +1,5 @@
 {
-  "categories": {
+ 
     "schema": "DynamicButtonGroup",
     "schema2": "DynamicCart",
     "category": [
@@ -22,5 +22,5 @@
         "name": "Movil 200"
       }
     ]
-  }
+  
 }
