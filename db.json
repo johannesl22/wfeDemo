@@ -7,7 +7,20 @@
     {
       "id": 2,
       "name": "fibra"
+    },
+    {
+      "id": 3,
+      "name": "fijo"
+    },
+    {
+      "id": 4,
+      "name": "tv"
+    },    
+    {
+      "id": 5,
+      "name": "wimax"
     }
+
   ],
 "products": [
     {
@@ -16,17 +29,17 @@
       "schema": "DynamicCart"
     },
     {
-      "id": 1,
-      "name": "movil 3 gb",
+      "id": 2,
+      "name": "fibra 100",
       "schema": "DynamicCart"
     },
     {
-      "id": 2,
+      "id": 3,
       "name": "movil 10 gb",
       "schema": "DynamicCart"
     },
     {
-       "id": 2,
+       "id": 4,
        "name": "movil 5 gb",
        "schema": "DynamicCart"
     }
