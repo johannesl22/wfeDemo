@@ -1,0 +1,26 @@
+{
+  "categories": {
+    "schema": "DynamicButtonGroup",
+    "schema2": "DynamicCart",
+    "category": [
+      {
+        "id": 1,
+        "name": "Fibra"
+      },
+      {
+        "id": 2,
+        "name": "Movil"
+      }
+    ],
+    "products": [
+      {
+        "id": 1,
+        "name": "Fibra 100"
+      },
+      {
+        "id": 2,
+        "name": "Movil 200"
+      }
+    ]
+  }
+}
