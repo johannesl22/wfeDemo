@@ -1,33 +1,11 @@
 {
-  "task": {
-    "schemas":[
+  "posts": [
     {
-      "schema": "DynamicButtonGroup"
-    },
-    {
-      "schema": "DynamicCart"
+      "id": 1,
+      "title": "hello"
     }
-    ],
-
-    "categories": [
-      {
-        "id": 1,
-        "name": "Fibra"
-      },
-      {
-        "id": 2,
-        "name": "Movil"
-      }
-    ],
-    "products": [
-      {
-        "id": 1,
-        "name": "Fibra 100"
-      },
-      {
-        "id": 2,
-        "name": "Movil 200"
-      }
-    ]
+  ],
+  "profile": {
+    "name": "typicode"
   }
 }
