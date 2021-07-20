@@ -1,8 +1,15 @@
 {
- 
-    "schema": "DynamicButtonGroup",
-    "schema2": "DynamicCart",
-    "category": [
+  "task": {
+    "schemas":[
+    {
+      "schema": "DynamicButtonGroup"
+    },
+    {
+      "schema": "DynamicCart"
+    }
+    ],
+
+    "categories": [
       {
         "id": 1,
         "name": "Fibra"
@@ -22,5 +29,5 @@
         "name": "Movil 200"
       }
     ]
-  
+  }
 }
