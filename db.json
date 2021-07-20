@@ -1,0 +1,67 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "movil"
+    },
+    {
+      "id": 2,
+      "name": "fibra"
+    }
+  ],
+"productsMovil": [
+    {
+      "id": 1,
+      "name": "movil 1 gb",
+      "schema": "DynamicCart"
+    },
+    {
+      "id": 1,
+      "name": "movil 3 gb",
+      "schema": "DynamicCart"
+    },
+    {
+      "id": 2,
+      "name": "movil 10 gb",
+      "schema": "DynamicCart"
+    },
+    {
+       "id": 2,
+       "name": "movil 5 gb",
+       "schema": "DynamicCart"
+    }
+  ],
+  "productsFibra": [
+    {
+      "id": 1,
+      "name": "fibra 100",
+      "schema": "DynamicCart"
+    },
+    {
+      "id": 2,
+      "name": "fibra 200",
+      "schema": "DynamicCart"
+    },
+    {
+      "id": 3,
+      "name": "fibra 300",
+      "schema": "DynamicCart"
+    },
+    {
+       "id": 4,
+       "name": "fibra 400",
+       "schema": "DynamicCart"
+    }
+  ],
+"schemas": [
+    {
+      
+      "schema": "DynamicButtonGroup"
+    },
+    {
+      
+      "schema": "DynamicCart"
+    }
+  ]
+ 
+}
