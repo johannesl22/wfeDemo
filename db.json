@@ -52,7 +52,7 @@
          ],
          "schema":{
             "components":"DynamicButtonGroup",
-            "layout":"main"
+            "layout":".main"
          }
       }
    ]
