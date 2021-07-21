@@ -53,23 +53,6 @@
          }
       },
       {
-         "taskNAme":"selectCategory",
-         "taskTitle":"selectCategory",
-         "taskID":159754,
-         "taskType":"user",
-         "status":"ACTIVE",
-         "dependencia":0,
-         "data":[
-            {
-               "relationShipData":0
-            }
-         ],
-         "schema":{
-            "components":"DynamicButtonGroup",
-            "layout":".main"
-         }
-      },
-      {
          "taskNAme":"getproducts",
          "taskTitle":"products",
          "taskID":159453,
@@ -98,7 +81,7 @@
          "taskID":159755,
          "taskType":"user",
          "status":"DISABLE",
-         "dependencia":0,
+         "dependencia":1,
          "data":[
             {
                "relationShipData":3
