@@ -7,8 +7,9 @@
          "taskType":"data",
          "status":"ACTIVE",
          "dependencia":null,
-         "data":{
-            "categories":[
+         "dataTask":{
+            "relationShipData":-1,
+            "model":[
                {
                   "id":1,
                   "name":"movil"
@@ -42,9 +43,10 @@
          "taskType":"user",
          "status":"ACTIVE",
          "dependencia":0,
-         "data":[
+         "dataTask":[
             {
-               "relationShipData":0
+               "relationShipData":0,
+               "model":"null"
             }
          ],
          "schema":{
@@ -59,17 +61,11 @@
          "taskType":"data",
          "status":"DISABLE",
          "dependencia":1,
-         "data":{
-            "products":[
-               {
-                  "id":1,
-                  "name":"Fibra 100"
-               },
-               {
-                  "id":2,
-                  "name":"Movil 200"
-               }
-            ]
+         "dataTask":{
+            
+             "relationShipData":-1
+               "model":"null"
+            
          },
          "schema":{
             "relationShipSchema":4
@@ -82,9 +78,10 @@
          "taskType":"user",
          "status":"DISABLE",
          "dependencia":1,
-         "data":[
+         "dataTask":[
             {
                "relationShipData":3
+               "model":"null"
             }
          ],
          "schema":{
