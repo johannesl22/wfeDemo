@@ -75,7 +75,7 @@
          "status":"DISABLE",
          "dependencia":1,
          "dataTask":{
-            "relationShipData":3,
+            "relationShipData":2,
             "model":"null"
          },
          "schema":{
