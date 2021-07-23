@@ -80,7 +80,7 @@
          },
          "schema":{
             "components":"DynamicCart",
-            "layout":".main"
+            "layout":".main2"
          }
       }
    ]
