@@ -1,0 +1,37 @@
+{
+   "WfName":"SaleOrder",
+   "WfID":"1254896",
+   "task":[
+      {
+         "taskName":"getCategory",
+         "taskID":159753,
+         "model":[
+            {
+               "id":1,
+               "name":"movil"
+            },
+            {
+               "id":2,
+               "name":"fibra"
+            },
+            {
+               "id":3,
+               "name":"fijo"
+            },
+            {
+               "id":4,
+               "name":"tv"
+            },
+            {
+               "id":5,
+               "name":"wimax"
+            }
+         ],
+         "schema":{
+            "component":"DynamicButtonGroup",
+            "layOut":".main"
+         }
+      }
+   ]
+}
+
