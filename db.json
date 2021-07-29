@@ -1,10 +1,40 @@
 {
-   "WfName":"SaleOrder",
-   "WfID":"1254896",
    "task":[
       {
-         "taskName":"getCategory",
+         "taskName":"selectCategory",
          "taskID":159753,
+         "status":"Idle"
+         "model":[
+            {
+               "id":1,
+               "name":"movil"
+            },
+            {
+               "id":2,
+               "name":"fibra"
+            },
+            {
+               "id":3,
+               "name":"fijo"
+            },
+            {
+               "id":4,
+               "name":"tv"
+            },
+            {
+               "id":5,
+               "name":"wimax"
+            }
+         ],
+         "schema":{
+            "component":"DynamicButtonGroup",
+            "layOut":".main"
+         }
+      },
+      {
+         "taskName":"selectProduct",
+         "taskID":159754,
+         "status":"Blocked"
          "model":[
             {
                "id":1,
@@ -32,6 +62,7 @@
             "layOut":".main"
          }
       }
+
    ]
 }
 
