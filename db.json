@@ -3,7 +3,7 @@
       {
          "taskName":"selectCategory",
          "taskID":159753,
-         "status":"Idle"
+         "status":"Idle",
          "model":[
             {
                "id":1,
@@ -34,7 +34,7 @@
       {
          "taskName":"selectProduct",
          "taskID":159754,
-         "status":"Blocked"
+         "status":"Blocked",
          "model":[
             {
                "id":1,
