@@ -1,7 +1,7 @@
 {
    "Task":[
       {
-         "taskName":"selectCategory",
+         "taskName":"getCategory",
          "taskID":159753,
          "status":"Idle",
          "model":[
